@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 305px;
+  min-height: 100vh;
+  background: #8758ff;
+  color: #fff;
+}
+
+button {
+  cursor: pointer;
+  color: #fff;
+}

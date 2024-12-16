@@ -1,0 +1,9 @@
+#root {
+  width: 65%;
+  height: 610px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 1) 0px 0px 30px 20px;
+  background: #1a1a40;
+}
